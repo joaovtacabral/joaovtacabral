@@ -7,6 +7,6 @@ I am an enthusiastic programmer with a passion for crafting elegant solutions. I
 # My Activity 🍃
 
 <kbd align="center">
- <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=codecabral&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22&exclude_days=Sun%2CSat"/>
- <img src="https://readme-status.vercel.app/api/top-langs/?username=codecabral&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
+ <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=joaovtacabral&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22&exclude_days=Sun%2CSat"/>
+ <img src="https://readme-status.vercel.app/api/top-langs/?username=joaovtacabral&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
 </kbd>
