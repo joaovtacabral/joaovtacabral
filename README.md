@@ -2,9 +2,11 @@
 
 I am an enthusiastic programmer with a passion for crafting elegant solutions. I specialize in web and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee while listening to something like this: 
 
-<kbd align="center">
- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31squeici6oeo6jeqgjl6sqxmd3u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</kbd>
+<div align="center">
+ <kbd>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31squeici6oeo6jeqgjl6sqxmd3u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+ </kbd>
+</div>
 
 # My Activity 🍃
 
