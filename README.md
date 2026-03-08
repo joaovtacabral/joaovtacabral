@@ -1,16 +1,9 @@
-# Hello World! 👽
+<samp>
+ 
+### Hi, I'm João Cabral 👋 
+I am a curiosity-driven full-stack developer with experience building **mobile apps**, **sites**, **desktop apps**, and **APIs**. 
+- 💼 Currently I am working in [@Asaas](https://github.com/asaasdev) and [@oliquo](https://github.com/oliquo).
+- 🧩 I have experience designing scalable APIs, clean architectures, and maintainable systems.
+- 📚 Outside of work, I like learning about **technology**, **entrepreneurship** and **finance**.
 
-I am an enthusiastic programmer with a passion for crafting elegant solutions. I specialize in web and mobile development. When I'm not immersed in lines of code, you'll likely find me exploring new technologies, reading tech blogs, or enjoying a good cup of coffee while listening to something like this: 
-
-<div align="center">
- <kbd>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31squeici6oeo6jeqgjl6sqxmd3u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
- </kbd>
-</div>
-
-# My Activity 🍃
-
-<kbd align="center">
- <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=joaovtacabral&theme=merko&card_width=1000&background=161b22&stroke=393f48&border=161b22&exclude_days=Sun%2CSat"/>
- <img src="https://readme-status.vercel.app/api/top-langs/?username=joaovtacabral&layout=donut&bg_color=161b22&border_color=393f48&theme=merko&card_width=950&langs_count=5"/>
-</kbd>
+</samp>
